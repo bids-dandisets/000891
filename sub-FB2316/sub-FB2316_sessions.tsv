@@ -1,3 +1,3 @@
-session_id
-ses-FB2316+baseline
-ses-FB2316+whisker
+session_id	original_session_id
+ses-FB2316+baseline	ses-FB2316_baseline
+ses-FB2316+whisker	ses-FB2316_whisker

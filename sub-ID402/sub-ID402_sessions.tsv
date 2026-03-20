@@ -1,3 +1,3 @@
-session_id
-ses-M402+01+baseline+awake
-ses-M402+03+baseline+iso
+session_id	original_session_id
+ses-M402+01+baseline+awake	ses-M402_01_baseline_awake
+ses-M402+03+baseline+iso	ses-M402_03_baseline_iso
